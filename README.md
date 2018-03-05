@@ -5,7 +5,8 @@ INSTRUCTIONS
 
 Main function:
 ----------------------------
-Filename: NeuralNetwork.m
+
+**FILENAME: NeuralNetwork.m**
 
 Function name: NeuralNetwork
 Parameters:
@@ -40,10 +41,8 @@ To save results:
 
 
 Auxiliary functions
-----------------------
-
 -------------------------------------------------------------------------------
-- Filename: activFunction.m
+**FILENAME: activFunction.m**
 
 Function name: activFunction
 Parameters:
@@ -55,7 +54,7 @@ To call the function:
 activFunction(z, func)
 
 -------------------------------------------------------------------------------
-- Filename: derivFunction.m
+**FILENAME: derivFunction.m**
 
 Function name: derivFunction
 Parameters:
@@ -67,7 +66,7 @@ To call the function:
 derivFunction(z, func)
 
 -------------------------------------------------------------------------------
-Filename: costFunction.m
+**FILENAME: costFunction.m**
 Function name: costFunction
 Parameters:
 -	input: matrix with features in the rows and instances in the columns
