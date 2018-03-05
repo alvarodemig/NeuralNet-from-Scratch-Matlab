@@ -1,5 +1,4 @@
-# NeuralNet-from-Scratch-Matlab
-Neural Network (MLP) implementation from scratch using Matlab
+# Neural Network (MultiLayer Perceptron) from Scratch using Matlab
 
 INSTRUCTIONS
 
